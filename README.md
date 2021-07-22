@@ -1,8 +1,9 @@
 # Forrest - a dark green theme for [fman](https://fman.io/)
 
 <p align="center">
-
-![Twitter Follow](https://img.shields.io/twitter/follow/hlx?color=%232A7FF7&style=flat-square) ![GitHub all releases](https://img.shields.io/github/downloads/hlx/fman/total?style=flat-square) ![Maintenance](https://img.shields.io/maintenance/yes/2021?style=flat-square)
+<img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2021?style=flat-square">
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/hlx/fman/total?style=flat-square">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/hlx?color=%232A7FF7&style=flat-square">
 </p>
 
 ## Screenshot
