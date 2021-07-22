@@ -1,0 +1,48 @@
+* {
+    font-size: 9pt;
+}
+
+th {
+    font-size: 8pt;
+}
+
+.locationbar {
+    padding: 0.25ex;
+    border-bottom: 1px solid #262626;
+}
+
+.statusbar {
+    font-size: 8pt;
+}
+
+.quicksearch-query {
+    font-size: 14pt;
+}
+.quicksearch-item-title {
+    font-size: 8pt;
+}
+
+.quicksearch-item {
+    padding-top: 0px;
+    padding-left: 4px;
+    padding-right: 4px;
+    border-top: 1px solid #4d4d4d;
+    border-bottom: 1px solid #363636;
+}
+
+.quicksearch-item-title {
+    color: #bde091;
+}
+
+.quicksearch-item-title-highlight {
+    color: white;
+}
+
+.quicksearch-item-hint {
+    font-size: 8pt;
+    color: #bde091;
+}
+
+.quicksearch-item-description {
+    color: #8f908a;
+}
