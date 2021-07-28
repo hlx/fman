@@ -1,4 +1,4 @@
-# Forrest - a dark green theme for [fman](https://fman.io/)
+# Forest - a dark green theme for [fman](https://fman.io/)
 
 <p align="center">
 <img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2021?style=flat-square">
